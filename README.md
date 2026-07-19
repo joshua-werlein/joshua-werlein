@@ -4,8 +4,6 @@
 
 Software Engineer specializing in modern web development with TypeScript, Astro, React, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
 
-![Joshua Werlein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshua-werlein&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ---
 
 ## 🛠️ Featured Projects
