@@ -22,7 +22,7 @@ An event and reservation platform for a nonprofit sportsmen's club established i
 🌐 **Live Site:** https://blairsportsmensclub.com
 
 ### 🔹 Friends of Lake Henry – Nonprofit Web Platform
-A production nonprofit website and content management platform built with **Astro**, **Cloudflare Workers**, **D1**, and **R2**. A custom admin CMS lets non-technical board members manage events, raffles, donor recognition, and moderated community photo galleries in support of lake restoration efforts.
+A production nonprofit website and content management platform built with Astro, Cloudflare, D1, and R2, with API routes and auth middleware integrated in a single codebase. A custom admin CMS lets non-technical board members manage events, raffles, donor recognition, and moderated community photo galleries in support of lake restoration efforts.
 
 🌐 **Live Site:** https://friendsoflakehenry.com
 📦 **GitHub Repo:** https://github.com/joshua-werlein/friends-of-lake-henry
