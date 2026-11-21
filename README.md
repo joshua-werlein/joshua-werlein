@@ -1,104 +1,59 @@
-# Joshua Werlein
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub](https://github.com/joshua-werlein/) • [Portfolio](https://joshuawerlein.com)
+# 👋 Hi, I'm Joshua Werlein
 
-Software Engineer specializing in modern web development with TypeScript, Astro, React, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
+### Software Engineer · Backend APIs · Automation · Cloudflare
 
----
+**Building and maintaining real software for businesses and nonprofit organizations.**  
+Based in western Wisconsin · Open to remote roles and Eau Claire-area hybrid opportunities
 
-## 🛠️ Featured Projects
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-171717?style=for-the-badge)](https://joshuawerlein.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-werlein)
+[![Email](https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjwerlein@gmail.com)
 
-### 🔹 Best By Manager – Android App on Google Play
-A kiosk-style inventory and expiration tracking app for retail and food-service teams, published to Google Play through the full release lifecycle (closed beta → v2.0.0). Built with **Java**, **Jetpack**, and an offline-first **Room** database, featuring ZXing barcode scanning, tiered permissions, and biometric owner controls.
-
-🌐 **Google Play:** https://play.google.com/store/apps/details?id=com.bestbymanager.app
-📦 **GitHub Repo:** https://github.com/joshua-werlein/BestByManager
-
-### 🔹 Blair Sportsmen's Club – Event & Reservation Platform
-An event and reservation platform for a nonprofit sportsmen's club established in 1968, built with **Astro** and **Cloudflare Workers**. A live availability calendar drives barn reservation requests, trap league scores render in deep-linkable leaderboards, and a Turnstile-protected contact pipeline delivers email via Resend.
-
-🌐 **Live Site:** https://blairsportsmensclub.com
-
-### 🔹 Friends of Lake Henry – Nonprofit Web Platform
-A production nonprofit website and content management platform built with Astro, Cloudflare, D1, and R2, with API routes and auth middleware integrated in a single codebase. A custom admin CMS lets non-technical board members manage events, raffles, donor recognition, and moderated community photo galleries in support of lake restoration efforts.
-
-🌐 **Live Site:** https://friendsoflakehenry.com
-📦 **GitHub Repo:** https://github.com/joshua-werlein/friends-of-lake-henry
-
-### 🔹 KIL Construction – Full-Stack Serverless Platform
-A production content management and portfolio platform built with **Cloudflare Workers**, **R2**, and **Astro**, featuring a client review system with admin moderation, secure admin tools, dynamic project galleries, API-driven asset management, and scalable cloud architecture.
-
-🌐 **Live Site:** https://kilcon.work
-📦 **GitHub Repo:** https://github.com/joshua-werlein/kilConstruction
-
-### 🔹 Arkham Enterprises – Marketing & Lead-Gen Platform
-A marketing and lead-generation site for Apex Solar & Construction, built in **React** on **Cloudflare Workers** with spam-protected contact and multi-step quote-request forms delivered via Resend. Deep-linked quote flows, LocalBusiness structured data, and 100 Lighthouse scores across Performance, Accessibility, SEO, and Agentic Browsing.
-
-🌐 **Live Site:** https://arkhamsolar.com
+</div>
 
 ---
 
-## 🔎 About Me
+### 🚀 What I build
 
-- 🔭 I graduated from Western Governors University with a Bachelor's Degree in Software Engineering.
-- ⚙️ Currently building the **BestBy Inventory API**: a Spring Boot 3 / Java 21 REST backend with JWT auth, PostgreSQL + Flyway, Testcontainers, and GitHub Actions CI.
+I'm a software engineer with a **B.S. in Software Engineering** and hands-on experience shipping client platforms and a published Android app. My work spans **REST APIs, databases, scheduled jobs, webhook integrations, authentication, cloud storage, and production deployments**—plus the frontend needed to make those systems usable.
 
-<details>
-    <summary>🎓 Early Academic Projects</summary>
+I especially enjoy the backend problems behind seemingly simple websites: reconciling external data, protecting customer content, keeping operations reliable, and building tools nontechnical people can maintain.
 
-  - 🌐 Mobile application designed as a [Vacation Planner](https://joshua-werlein.github.io/VacationPlannerMobileApplication/).
+### 🏗️ Featured engineering work
 
-  - 🌐 Tourism website for [Wisconsin](https://joshua-werlein.github.io/Wisconsin/).
+| Project | What makes it interesting |
+| :--- | :--- |
+| 🦬 **[Grayz'n Buffalo Bar & Grill](https://grayznbuffalo.com)** | An [Astro 7 restaurant operations platform](https://github.com/joshua-werlein/grayzn-buffalo) with D1-backed menus, R2 media, KV sessions, Facebook integration, and **AI-assisted specials extraction with evidence checks and guarded database updates**. |
+| 🌊 **[Friends of Lake Henry](https://friendsoflakehenry.com)** | A [nonprofit event and raffle platform](https://github.com/joshua-werlein/friends-of-lake-henry) using Cloudflare D1/KV/R2, dedicated Facebook Live and photo Workers, automated intake, admin review workflows, and operational recovery safeguards. |
+| 🏠 **[KIL Construction](https://kilcon.work)** | A [serverless construction and content platform](https://github.com/joshua-werlein/kilConstruction) with protected R2 media, D1-backed workflows, signed admin sessions, client reviews, and Meta webhook/photo-import tooling. |
+| 📱 **[Best By Manager](https://play.google.com/store/apps/details?id=com.bestbymanager.app)** | A [published Android inventory app](https://github.com/joshua-werlein/BestByManager) built with Java, Room/SQLite, barcode scanning, offline-first storage, expiration notifications, and role-based access. |
 
-  - 🌐 Tourism website for [Taniti Island](https://joshua-werlein.github.io/TanitiIsland/).
-</details>
+**More client work:** [Blair Sportsmen's Club](https://blairsportsmensclub.com) (reservations and scoring) · [Arkham Enterprises](https://www.arkhamsolar.com) (lead generation and quote workflows) · [My portfolio's case studies](https://joshuawerlein.com/#work)
 
----
+### 🧰 Tools and technologies
 
-## 💻 Tech Stack
+**Languages & frameworks**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-34495E?style=flat-square) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,astro,cloudflare,workers,html,css,bootstrap,java,spring,mysql,postgres,cs,dotnet,py,git,github,vscode,idea,azure)](https://skillicons.dev)
+**Backend, storage & operations**  
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![D1](https://img.shields.io/badge/Cloudflare_D1-202B3C?style=flat-square) ![R2](https://img.shields.io/badge/Cloudflare_R2-202B3C?style=flat-square) ![KV](https://img.shields.io/badge/Cloudflare_KV-202B3C?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-3F5161?style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
+**Engineering focus:** API design · D1/SQLite data modeling · scheduled and event-driven integrations · guarded writes · authentication and access control · testing and production troubleshooting
 
-## 🏆 Achievements
+### 🎓 Education & credentials
 
-- 🌟 Graduated from CVTC in May 2024 - Earned multiple certifications:
-  - Software Development Specialist
-  - Database Specialist
-  - Java Programmer
-  - .Net Programmer
-- 🌟 Continued at WGU – Additional Certifications Earned:
-<ul>
- <li>
-  <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="100">
-  </a>
- </li>
- <li>
-  <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Back-End%20Developer%20-%202025-05-12%20(1).png" alt="Back-End Web Development Badge" width="100">
-  </a>
- </li>
- <li>
-  <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/aws-certified-cloud-practitioner%20(Large).png" alt="AWS Cloud Practitioner Certification" width="100">
-  </a>
- </li>
- <li>
-  <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/comptia-project-certification.5.png" alt="Project Management Certification" width="100">
-  </a>
- </li>
-</ul>
+- **B.S., Software Engineering** — Western Governors University, 2025
+- **A.A.S., IT Software Developer** — Chippewa Valley Technical College, 2024
+- **AWS Certified Cloud Practitioner** · **CompTIA Project+**
 
 ---
 
-## 📬 Get in Touch
+<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
+**🔎 Want to see the actual systems?**  
+Browse the [production case studies](https://joshuawerlein.com/#work) or open any of the linked repositories to see architecture, source code, screenshots, and implementation notes.
 
-- Contact me on <a href="mailto:jjwerlein@gmail.com">Gmail</a>
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-werlein)
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=joshua-werlein&style=flat)
